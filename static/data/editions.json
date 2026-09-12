@@ -1,0 +1,316 @@
+{
+  "_meta": {
+    "quelle": "TCGdex (api.tcgdex.net), gesteuert von scripts/data/sets.json",
+    "erzeugt": "2026-09-09T15:16:18.100Z"
+  },
+  "editionen": [
+    {
+      "kuerzel": "SSH",
+      "name": "Schwert & Schild",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2020-02-07",
+      "anzahlKarten": 216
+    },
+    {
+      "kuerzel": "RCL",
+      "name": "Schwert & Schild – Clash der Rebellen",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2020-05-01",
+      "anzahlKarten": 209
+    },
+    {
+      "kuerzel": "DAA",
+      "name": "Schwert & Schild – Flammende Finsternis",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2020-08-14",
+      "anzahlKarten": 201
+    },
+    {
+      "kuerzel": "CPA",
+      "name": "Schwert & Schild – Weg des Champs",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2020-09-25",
+      "anzahlKarten": 80
+    },
+    {
+      "kuerzel": "VIV",
+      "name": "Schwert & Schild – Farbenschock",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2020-11-13",
+      "anzahlKarten": 203
+    },
+    {
+      "kuerzel": "SHF",
+      "name": "Schwert & Schild – Glänzendes Schicksal",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2021-02-19",
+      "anzahlKarten": 73
+    },
+    {
+      "kuerzel": "BST",
+      "name": "Schwert & Schild – Kampfstile",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2021-03-19",
+      "anzahlKarten": 183
+    },
+    {
+      "kuerzel": "CRE",
+      "name": "Schwert & Schild – Schaurige Herrschaft",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2021-06-18",
+      "anzahlKarten": 233
+    },
+    {
+      "kuerzel": "EVS",
+      "name": "Schwert & Schild – Drachenwandel",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2021-08-27",
+      "anzahlKarten": 237
+    },
+    {
+      "kuerzel": "CEL",
+      "name": "Schwert & Schild – Celebrations",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2021-10-08",
+      "anzahlKarten": 25
+    },
+    {
+      "kuerzel": "FST",
+      "name": "Schwert & Schild – Fusionsangriff",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2021-11-12",
+      "anzahlKarten": 284
+    },
+    {
+      "kuerzel": "BRS",
+      "name": "Schwert & Schild – Strahlende Sterne",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2022-02-25",
+      "anzahlKarten": 186
+    },
+    {
+      "kuerzel": "BRS:TG",
+      "name": "Schwert & Schild – Strahlende Sterne Trainer-Galerie",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2022-02-25",
+      "anzahlKarten": 30
+    },
+    {
+      "kuerzel": "ASR",
+      "name": "Schwert & Schild – Astralglanz",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2022-05-27",
+      "anzahlKarten": 216
+    },
+    {
+      "kuerzel": "ASR:TG",
+      "name": "Schwert & Schild – Astralglanz Trainer-Galerie",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2022-05-27",
+      "anzahlKarten": 30
+    },
+    {
+      "kuerzel": "PGO",
+      "name": "Schwert & Schild – Pokémon GO",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2022-07-01",
+      "anzahlKarten": 88
+    },
+    {
+      "kuerzel": "LOR",
+      "name": "Schwert & Schild – Verlorener Ursprung",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2022-09-09",
+      "anzahlKarten": 217
+    },
+    {
+      "kuerzel": "LOR:TG",
+      "name": "Schwert & Schild – Verlorener Ursprung Trainer-Galerie",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2022-09-09",
+      "anzahlKarten": 30
+    },
+    {
+      "kuerzel": "SIT",
+      "name": "Schwert & Schild – Silberne Sturmwinde",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2022-11-11",
+      "anzahlKarten": 215
+    },
+    {
+      "kuerzel": "SIT:TG",
+      "name": "Schwert & Schild – Silberne Sturmwinde Trainer-Galerie",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2022-11-11",
+      "anzahlKarten": 30
+    },
+    {
+      "kuerzel": "CRZ",
+      "name": "Schwert & Schild – Zenit der Könige",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2023-01-20",
+      "anzahlKarten": 160
+    },
+    {
+      "kuerzel": "CRZ:GG",
+      "name": "Schwert & Schild – Zenit der Könige Galar-Galerie",
+      "serie": "Schwert & Schild",
+      "erscheinungsdatum": "2023-01-20",
+      "anzahlKarten": 70
+    },
+    {
+      "kuerzel": "SVI",
+      "name": "Karmesin & Purpur",
+      "serie": "Karmesin & Purpur",
+      "erscheinungsdatum": "2023-03-31",
+      "anzahlKarten": 258
+    },
+    {
+      "kuerzel": "PAL",
+      "name": "Karmesin & Purpur – Entwicklungen in Paldea",
+      "serie": "Karmesin & Purpur",
+      "erscheinungsdatum": "2023-06-09",
+      "anzahlKarten": 279
+    },
+    {
+      "kuerzel": "OBF",
+      "name": "Karmesin & Purpur – Obsidian Flammen",
+      "serie": "Karmesin & Purpur",
+      "erscheinungsdatum": "2023-08-11",
+      "anzahlKarten": 230
+    },
+    {
+      "kuerzel": "MEW",
+      "name": "Karmesin & Purpur – 151",
+      "serie": "Karmesin & Purpur",
+      "erscheinungsdatum": "2023-09-22",
+      "anzahlKarten": 207
+    },
+    {
+      "kuerzel": "PAR",
+      "name": "Karmesin & Purpur – Paradoxrift",
+      "serie": "Karmesin & Purpur",
+      "erscheinungsdatum": "2023-11-03",
+      "anzahlKarten": 266
+    },
+    {
+      "kuerzel": "PAF",
+      "name": "Karmesin & Purpur – Paldeas Schicksale",
+      "serie": "Karmesin & Purpur",
+      "erscheinungsdatum": "2024-01-26",
+      "anzahlKarten": 245
+    },
+    {
+      "kuerzel": "TEF",
+      "name": "Karmesin & Purpur – Gewalten der Zeit",
+      "serie": "Karmesin & Purpur",
+      "erscheinungsdatum": "2024-03-22",
+      "anzahlKarten": 218
+    },
+    {
+      "kuerzel": "TWM",
+      "name": "Karmesin & Purpur – Maskerade im Zwielicht",
+      "serie": "Karmesin & Purpur",
+      "erscheinungsdatum": "2024-05-24",
+      "anzahlKarten": 226
+    },
+    {
+      "kuerzel": "SFA",
+      "name": "Karmesin & Purpur – Nebel der Sagen",
+      "serie": "Karmesin & Purpur",
+      "erscheinungsdatum": "2024-08-02",
+      "anzahlKarten": 99
+    },
+    {
+      "kuerzel": "SCR",
+      "name": "Karmesin & Purpur – Stellarkrone",
+      "serie": "Karmesin & Purpur",
+      "erscheinungsdatum": "2024-09-13",
+      "anzahlKarten": 175
+    },
+    {
+      "kuerzel": "SSP",
+      "name": "Karmesin & Purpur – Stürmische Funken",
+      "serie": "Karmesin & Purpur",
+      "erscheinungsdatum": "2024-11-08",
+      "anzahlKarten": 252
+    },
+    {
+      "kuerzel": "PRE",
+      "name": "Karmesin & Purpur – Prismatische Entwicklungen",
+      "serie": "Karmesin & Purpur",
+      "erscheinungsdatum": "2025-01-17",
+      "anzahlKarten": 180
+    },
+    {
+      "kuerzel": "JTG",
+      "name": "Karmesin & Purpur – Reisegefährten",
+      "serie": "Karmesin & Purpur",
+      "erscheinungsdatum": "2025-03-28",
+      "anzahlKarten": 190
+    },
+    {
+      "kuerzel": "DRI",
+      "name": "Karmesin & Purpur – Ewige Rivalen",
+      "serie": "Karmesin & Purpur",
+      "erscheinungsdatum": "2025-05-30",
+      "anzahlKarten": 244
+    },
+    {
+      "kuerzel": "BLK",
+      "name": "Karmesin & Purpur – Schwarze Blitze",
+      "serie": "Karmesin & Purpur",
+      "erscheinungsdatum": "2025-07-17",
+      "anzahlKarten": 172
+    },
+    {
+      "kuerzel": "WHT",
+      "name": "Karmesin & Purpur – Weiße Flammen",
+      "serie": "Karmesin & Purpur",
+      "erscheinungsdatum": "2025-07-17",
+      "anzahlKarten": 173
+    },
+    {
+      "kuerzel": "MEG",
+      "name": "Mega-Entwicklung",
+      "serie": "Mega-Entwicklung",
+      "erscheinungsdatum": "2025-09-26",
+      "anzahlKarten": 188
+    },
+    {
+      "kuerzel": "PFL",
+      "name": "Mega-Entwicklung – Fatale Flammen",
+      "serie": "Mega-Entwicklung",
+      "erscheinungsdatum": "2025-11-14",
+      "anzahlKarten": 130
+    },
+    {
+      "kuerzel": "ASC",
+      "name": "Mega-Entwicklung – Erhabene Helden",
+      "serie": "Mega-Entwicklung",
+      "erscheinungsdatum": "2026-01-30",
+      "anzahlKarten": 295
+    },
+    {
+      "kuerzel": "POR",
+      "name": "Mega-Entwicklung – Optimale Ordnung",
+      "serie": "Mega-Entwicklung",
+      "erscheinungsdatum": "2026-03-27",
+      "anzahlKarten": 124
+    },
+    {
+      "kuerzel": "CRI",
+      "name": "Mega-Entwicklung – Wachsendes Chaos",
+      "serie": "Mega-Entwicklung",
+      "erscheinungsdatum": "2026-05-22",
+      "anzahlKarten": 122
+    },
+    {
+      "kuerzel": "PBL",
+      "name": "Mega-Entwicklung – Dunkelnacht",
+      "serie": "Mega-Entwicklung",
+      "erscheinungsdatum": "2026-07-17",
+      "anzahlKarten": 120
+    }
+  ]
+}

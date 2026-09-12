@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="56" viewBox="0 0 40 56">
+  <!-- transparent plastic sleeve body -->
+  <rect x="2" y="2" width="36" height="52" rx="5" ry="5"
+        fill="#eaf7ff" fill-opacity="0.30" stroke="#8fd0f2" stroke-width="1.5" />
+
+  <!-- inner plastic seam -->
+  <rect x="4.5" y="4.5" width="31" height="47" rx="4" ry="4"
+        fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1" />
+
+  <!-- thumb notch -->
+  <path d="M16.5 2 a3.5 3.5 0 0 0 7 0" fill="none" stroke="#8fd0f2" stroke-width="1.2" />
+
+  <!-- glossy highlight streak -->
+  <polygon points="7,4.5 15,4.5 8,32 5,32" fill="#ffffff" fill-opacity="0.35" />
+  <polygon points="30,4.5 33,4.5 27,48 25,48" fill="#ffffff" fill-opacity="0.20" />
+</svg>

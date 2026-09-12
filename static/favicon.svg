@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" shape-rendering="crispEdges">
+  <!-- binder spine -->
+  <rect x="0" y="0" width="3" height="18" fill="#8b2e2e" />
+  <rect x="1" y="3" width="1" height="1" fill="#3a1010" />
+  <rect x="1" y="8" width="1" height="1" fill="#3a1010" />
+  <rect x="1" y="13" width="1" height="1" fill="#3a1010" />
+
+  <!-- binder page -->
+  <rect x="3" y="0" width="15" height="18" fill="#f2e6c9" />
+  <rect x="3" y="0" width="1" height="18" fill="#d8c79f" />
+
+  <!-- 3x3 grid of pokemon cards -->
+  <rect x="5" y="3" width="3" height="3" fill="#e74c3c" />
+  <rect x="9" y="3" width="3" height="3" fill="#3498db" />
+  <rect x="13" y="3" width="3" height="3" fill="#2ecc71" />
+
+  <rect x="5" y="7" width="3" height="3" fill="#f1c40f" />
+  <rect x="9" y="7" width="3" height="3" fill="#e84393" />
+  <rect x="13" y="7" width="3" height="3" fill="#6c3483" />
+
+  <rect x="5" y="11" width="3" height="3" fill="#63d1e0" />
+  <rect x="9" y="11" width="3" height="3" fill="#d35400" />
+  <rect x="13" y="11" width="3" height="3" fill="#b5a642" />
+</svg>
