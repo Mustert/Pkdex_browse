@@ -1,7 +1,7 @@
 {
   "_meta": {
     "quelle": "TCGdex (api.tcgdex.net), gesteuert von scripts/data/sets.json",
-    "erzeugt": "2026-09-09T15:16:18.100Z"
+    "erzeugt": "2026-11-21T18:09:08.219Z"
   },
   "editionen": [
     {
@@ -311,6 +311,20 @@
       "serie": "Mega-Entwicklung",
       "erscheinungsdatum": "2026-07-17",
       "anzahlKarten": 120
+    },
+    {
+      "kuerzel": "30C",
+      "name": "Mega-Entwicklung – 30 Jahre",
+      "serie": "Mega-Entwicklung",
+      "erscheinungsdatum": "2026-09-16",
+      "anzahlKarten": 161
+    },
+    {
+      "kuerzel": "DLR",
+      "name": "Mega-Entwicklung – Delta-Herrschaft",
+      "serie": "Mega-Entwicklung",
+      "erscheinungsdatum": "2026-11-06",
+      "anzahlKarten": 141
     }
   ]
 }

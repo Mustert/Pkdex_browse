@@ -252,6 +252,48 @@
       ],
       "abEdition": "SSH",
       "hinweis": "Oberbegriff fuer die besonderen Zieh-Karten der Schwert-&-Schild-Serie: Pokemon V, VMAX und VSTAR, Strahlende Pokemon (Radiant), Erstaunliche Pokemon (Amazing Rare) sowie alle versteckten Seltenen (Rainbow, Gold, Secret). Diese Serie wird in diesem Pokedex-Browser bewusst nicht so fein aufgeschluesselt wie Karmesin & Purpur; dort behalten die Grade eigene Eintraege."
+    },
+    {
+      "de": "selten, Pikachu-Kunst",
+      "en": "Pikachu Rare",
+      "abk": null,
+      "kategorie": "spezial",
+      "rang": 16,
+      "symbol": "kein eigenes Stern-Symbol",
+      "glyph": null,
+      "farbe": null,
+      "pokemontcgIo": null,
+      "tcgdex": "Pikachu Rare",
+      "abEdition": "30C",
+      "hinweis": "Nur in '30 Jahre' (30C). 30 eigenstaendige Pikachu-Illustrationen verschiedener Kuenstler, je ein Standardmotiv pro Karte."
+    },
+    {
+      "de": "selten, futuristisch",
+      "en": "Futuristic Rare",
+      "abk": null,
+      "kategorie": "spezial",
+      "rang": 17,
+      "symbol": "kein eigenes Stern-Symbol",
+      "glyph": null,
+      "farbe": null,
+      "pokemontcgIo": null,
+      "tcgdex": "Futuristic Rare",
+      "abEdition": "30C",
+      "hinweis": "Nur in '30 Jahre' (30C): Mewtu-ex und Mew-ex im futuristischen Illustrationsstil von YOSHIROTTEN."
+    },
+    {
+      "de": "selten, RGB",
+      "en": "RGB Rare",
+      "abk": null,
+      "kategorie": "spezial",
+      "rang": 18,
+      "symbol": "kein eigenes Stern-Symbol",
+      "glyph": null,
+      "farbe": null,
+      "pokemontcgIo": null,
+      "tcgdex": "RGB Rare",
+      "abEdition": "30C",
+      "hinweis": "Nur in '30 Jahre' (30C): drei Mew-Karten im Stil der japanischen Erstausgaben Rot, Gruen und Blau, von YOSHIROTTEN."
     }
   ]
 }

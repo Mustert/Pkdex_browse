@@ -1,9 +1,1774 @@
 {
   "_meta": {
     "quelle": "TCGdex (api.tcgdex.net), deutschsprachiger Client",
-    "erzeugt": "2026-09-09T15:16:18.100Z"
+    "erzeugt": "2026-11-21T18:09:08.219Z"
   },
   "karten": [
+    {
+      "id": "30C-001",
+      "editionKuerzel": "30C",
+      "nummer": "001",
+      "name": "Owei",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        102
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/001/high.png"
+    },
+    {
+      "id": "30C-002",
+      "editionKuerzel": "30C",
+      "nummer": "002",
+      "name": "Alola-Kokowei",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        103
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/002/high.png"
+    },
+    {
+      "id": "30C-003",
+      "editionKuerzel": "30C",
+      "nummer": "003",
+      "name": "Volbeat",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        313
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/003/high.png"
+    },
+    {
+      "id": "30C-004",
+      "editionKuerzel": "30C",
+      "nummer": "004",
+      "name": "Illumise",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        314
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/004/high.png"
+    },
+    {
+      "id": "30C-005",
+      "editionKuerzel": "30C",
+      "nummer": "005",
+      "name": "Tropius",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        357
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/005/high.png"
+    },
+    {
+      "id": "30C-006",
+      "editionKuerzel": "30C",
+      "nummer": "006",
+      "name": "Kikugi",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        420
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/006/high.png"
+    },
+    {
+      "id": "30C-007",
+      "editionKuerzel": "30C",
+      "nummer": "007",
+      "name": "Kinoso",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        421
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/007/high.png"
+    },
+    {
+      "id": "30C-008",
+      "editionKuerzel": "30C",
+      "nummer": "008",
+      "name": "Vivillon",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        666
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/008/high.png"
+    },
+    {
+      "id": "30C-009",
+      "editionKuerzel": "30C",
+      "nummer": "009",
+      "name": "Vulpix",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        37
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/009/high.png"
+    },
+    {
+      "id": "30C-010",
+      "editionKuerzel": "30C",
+      "nummer": "010",
+      "name": "Vulnona",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        38
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/010/high.png"
+    },
+    {
+      "id": "30C-011",
+      "editionKuerzel": "30C",
+      "nummer": "011",
+      "name": "Lavados",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        146
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/011/high.png"
+    },
+    {
+      "id": "30C-012",
+      "editionKuerzel": "30C",
+      "nummer": "012",
+      "name": "Ho-Oh",
+      "seltenheitDe": "selten",
+      "dexIds": [
+        250
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/012/high.png"
+    },
+    {
+      "id": "30C-013",
+      "editionKuerzel": "30C",
+      "nummer": "013",
+      "name": "Victini",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        494
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/013/high.png"
+    },
+    {
+      "id": "30C-014",
+      "editionKuerzel": "30C",
+      "nummer": "014",
+      "name": "Reshiram",
+      "seltenheitDe": "selten",
+      "dexIds": [
+        643
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/014/high.png"
+    },
+    {
+      "id": "30C-015",
+      "editionKuerzel": "30C",
+      "nummer": "015",
+      "name": "Krokel-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [
+        909
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/015/high.png"
+    },
+    {
+      "id": "30C-016",
+      "editionKuerzel": "30C",
+      "nummer": "016",
+      "name": "Flegmon",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        79
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/016/high.png"
+    },
+    {
+      "id": "30C-017",
+      "editionKuerzel": "30C",
+      "nummer": "017",
+      "name": "Lapras",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        131
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/017/high.png"
+    },
+    {
+      "id": "30C-018",
+      "editionKuerzel": "30C",
+      "nummer": "018",
+      "name": "Arktos",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        144
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/018/high.png"
+    },
+    {
+      "id": "30C-019",
+      "editionKuerzel": "30C",
+      "nummer": "019",
+      "name": "Kyogre",
+      "seltenheitDe": "selten",
+      "dexIds": [
+        382
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/019/high.png"
+    },
+    {
+      "id": "30C-020",
+      "editionKuerzel": "30C",
+      "nummer": "020",
+      "name": "Palkia",
+      "seltenheitDe": "selten",
+      "dexIds": [
+        484
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/020/high.png"
+    },
+    {
+      "id": "30C-021",
+      "editionKuerzel": "30C",
+      "nummer": "021",
+      "name": "Quajutsu-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [
+        658
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/021/high.png"
+    },
+    {
+      "id": "30C-022",
+      "editionKuerzel": "30C",
+      "nummer": "022",
+      "name": "Lusardin",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        746
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/022/high.png"
+    },
+    {
+      "id": "30C-023",
+      "editionKuerzel": "30C",
+      "nummer": "023",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/023/high.png"
+    },
+    {
+      "id": "30C-024",
+      "editionKuerzel": "30C",
+      "nummer": "024",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/024/high.png"
+    },
+    {
+      "id": "30C-025",
+      "editionKuerzel": "30C",
+      "nummer": "025",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/025/high.png"
+    },
+    {
+      "id": "30C-026",
+      "editionKuerzel": "30C",
+      "nummer": "026",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/026/high.png"
+    },
+    {
+      "id": "30C-027",
+      "editionKuerzel": "30C",
+      "nummer": "027",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/027/high.png"
+    },
+    {
+      "id": "30C-028",
+      "editionKuerzel": "30C",
+      "nummer": "028",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/028/high.png"
+    },
+    {
+      "id": "30C-029",
+      "editionKuerzel": "30C",
+      "nummer": "029",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/029/high.png"
+    },
+    {
+      "id": "30C-030",
+      "editionKuerzel": "30C",
+      "nummer": "030",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/030/high.png"
+    },
+    {
+      "id": "30C-031",
+      "editionKuerzel": "30C",
+      "nummer": "031",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/031/high.png"
+    },
+    {
+      "id": "30C-032",
+      "editionKuerzel": "30C",
+      "nummer": "032",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/032/high.png"
+    },
+    {
+      "id": "30C-033",
+      "editionKuerzel": "30C",
+      "nummer": "033",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/033/high.png"
+    },
+    {
+      "id": "30C-034",
+      "editionKuerzel": "30C",
+      "nummer": "034",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/034/high.png"
+    },
+    {
+      "id": "30C-035",
+      "editionKuerzel": "30C",
+      "nummer": "035",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/035/high.png"
+    },
+    {
+      "id": "30C-036",
+      "editionKuerzel": "30C",
+      "nummer": "036",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/036/high.png"
+    },
+    {
+      "id": "30C-037",
+      "editionKuerzel": "30C",
+      "nummer": "037",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/037/high.png"
+    },
+    {
+      "id": "30C-038",
+      "editionKuerzel": "30C",
+      "nummer": "038",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/038/high.png"
+    },
+    {
+      "id": "30C-039",
+      "editionKuerzel": "30C",
+      "nummer": "039",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/039/high.png"
+    },
+    {
+      "id": "30C-040",
+      "editionKuerzel": "30C",
+      "nummer": "040",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/040/high.png"
+    },
+    {
+      "id": "30C-041",
+      "editionKuerzel": "30C",
+      "nummer": "041",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/041/high.png"
+    },
+    {
+      "id": "30C-042",
+      "editionKuerzel": "30C",
+      "nummer": "042",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/042/high.png"
+    },
+    {
+      "id": "30C-043",
+      "editionKuerzel": "30C",
+      "nummer": "043",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/043/high.png"
+    },
+    {
+      "id": "30C-044",
+      "editionKuerzel": "30C",
+      "nummer": "044",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/044/high.png"
+    },
+    {
+      "id": "30C-045",
+      "editionKuerzel": "30C",
+      "nummer": "045",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/045/high.png"
+    },
+    {
+      "id": "30C-046",
+      "editionKuerzel": "30C",
+      "nummer": "046",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/046/high.png"
+    },
+    {
+      "id": "30C-047",
+      "editionKuerzel": "30C",
+      "nummer": "047",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/047/high.png"
+    },
+    {
+      "id": "30C-048",
+      "editionKuerzel": "30C",
+      "nummer": "048",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/048/high.png"
+    },
+    {
+      "id": "30C-049",
+      "editionKuerzel": "30C",
+      "nummer": "049",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/049/high.png"
+    },
+    {
+      "id": "30C-050",
+      "editionKuerzel": "30C",
+      "nummer": "050",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/050/high.png"
+    },
+    {
+      "id": "30C-051",
+      "editionKuerzel": "30C",
+      "nummer": "051",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/051/high.png"
+    },
+    {
+      "id": "30C-052",
+      "editionKuerzel": "30C",
+      "nummer": "052",
+      "name": "Pikachu",
+      "seltenheitDe": "selten, Pikachu-Kunst",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/052/high.png"
+    },
+    {
+      "id": "30C-053",
+      "editionKuerzel": "30C",
+      "nummer": "053",
+      "name": "Pikachu-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/053/high.png"
+    },
+    {
+      "id": "30C-054",
+      "editionKuerzel": "30C",
+      "nummer": "054",
+      "name": "Pikachu-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/054/high.png"
+    },
+    {
+      "id": "30C-055",
+      "editionKuerzel": "30C",
+      "nummer": "055",
+      "name": "Zapdos",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        145
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/055/high.png"
+    },
+    {
+      "id": "30C-056",
+      "editionKuerzel": "30C",
+      "nummer": "056",
+      "name": "Zekrom",
+      "seltenheitDe": "selten",
+      "dexIds": [
+        644
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/056/high.png"
+    },
+    {
+      "id": "30C-057",
+      "editionKuerzel": "30C",
+      "nummer": "057",
+      "name": "Zeraora",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        807
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/057/high.png"
+    },
+    {
+      "id": "30C-058",
+      "editionKuerzel": "30C",
+      "nummer": "058",
+      "name": "Toxel",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        848
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/058/high.png"
+    },
+    {
+      "id": "30C-059",
+      "editionKuerzel": "30C",
+      "nummer": "059",
+      "name": "Riffex",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        849
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/059/high.png"
+    },
+    {
+      "id": "30C-060",
+      "editionKuerzel": "30C",
+      "nummer": "060",
+      "name": "Riffex",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        849
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/060/high.png"
+    },
+    {
+      "id": "30C-061",
+      "editionKuerzel": "30C",
+      "nummer": "061",
+      "name": "Morpeko",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        877
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/061/high.png"
+    },
+    {
+      "id": "30C-062",
+      "editionKuerzel": "30C",
+      "nummer": "062",
+      "name": "Miraidon",
+      "seltenheitDe": "selten",
+      "dexIds": [
+        1008
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/062/high.png"
+    },
+    {
+      "id": "30C-063",
+      "editionKuerzel": "30C",
+      "nummer": "063",
+      "name": "Mewtu",
+      "seltenheitDe": "selten",
+      "dexIds": [
+        150
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/063/high.png"
+    },
+    {
+      "id": "30C-064",
+      "editionKuerzel": "30C",
+      "nummer": "064",
+      "name": "Mewtu-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [
+        150
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/064/high.png"
+    },
+    {
+      "id": "30C-065",
+      "editionKuerzel": "30C",
+      "nummer": "065",
+      "name": "Mew",
+      "seltenheitDe": "selten",
+      "dexIds": [
+        151
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/065/high.png"
+    },
+    {
+      "id": "30C-066",
+      "editionKuerzel": "30C",
+      "nummer": "066",
+      "name": "Mew-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [
+        151
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/066/high.png"
+    },
+    {
+      "id": "30C-067",
+      "editionKuerzel": "30C",
+      "nummer": "067",
+      "name": "Marill",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        183
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/067/high.png"
+    },
+    {
+      "id": "30C-068",
+      "editionKuerzel": "30C",
+      "nummer": "068",
+      "name": "Azumarill",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        184
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/068/high.png"
+    },
+    {
+      "id": "30C-069",
+      "editionKuerzel": "30C",
+      "nummer": "069",
+      "name": "Psiana",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        196
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/069/high.png"
+    },
+    {
+      "id": "30C-070",
+      "editionKuerzel": "30C",
+      "nummer": "070",
+      "name": "Psiana-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [
+        196
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/070/high.png"
+    },
+    {
+      "id": "30C-071",
+      "editionKuerzel": "30C",
+      "nummer": "071",
+      "name": "Feelinara-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [
+        700
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/071/high.png"
+    },
+    {
+      "id": "30C-072",
+      "editionKuerzel": "30C",
+      "nummer": "072",
+      "name": "Icognito",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        201
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/072/high.png"
+    },
+    {
+      "id": "30C-073",
+      "editionKuerzel": "30C",
+      "nummer": "073",
+      "name": "Driftlon",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        425
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/073/high.png"
+    },
+    {
+      "id": "30C-074",
+      "editionKuerzel": "30C",
+      "nummer": "074",
+      "name": "Cresselia",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        488
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/074/high.png"
+    },
+    {
+      "id": "30C-075",
+      "editionKuerzel": "30C",
+      "nummer": "075",
+      "name": "Skelabra",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        609
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/075/high.png"
+    },
+    {
+      "id": "30C-076",
+      "editionKuerzel": "30C",
+      "nummer": "076",
+      "name": "Xerneas",
+      "seltenheitDe": "selten",
+      "dexIds": [
+        716
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/076/high.png"
+    },
+    {
+      "id": "30C-077",
+      "editionKuerzel": "30C",
+      "nummer": "077",
+      "name": "Curelei",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        764
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/077/high.png"
+    },
+    {
+      "id": "30C-078",
+      "editionKuerzel": "30C",
+      "nummer": "078",
+      "name": "Cosmog",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        789
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/078/high.png"
+    },
+    {
+      "id": "30C-079",
+      "editionKuerzel": "30C",
+      "nummer": "079",
+      "name": "Cosmovum",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        790
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/079/high.png"
+    },
+    {
+      "id": "30C-080",
+      "editionKuerzel": "30C",
+      "nummer": "080",
+      "name": "Lunala",
+      "seltenheitDe": "selten",
+      "dexIds": [
+        792
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/080/high.png"
+    },
+    {
+      "id": "30C-081",
+      "editionKuerzel": "30C",
+      "nummer": "081",
+      "name": "Gierspenst",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        999
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/081/high.png"
+    },
+    {
+      "id": "30C-082",
+      "editionKuerzel": "30C",
+      "nummer": "082",
+      "name": "Groudon",
+      "seltenheitDe": "selten",
+      "dexIds": [
+        383
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/082/high.png"
+    },
+    {
+      "id": "30C-083",
+      "editionKuerzel": "30C",
+      "nummer": "083",
+      "name": "Lucario",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        448
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/083/high.png"
+    },
+    {
+      "id": "30C-084",
+      "editionKuerzel": "30C",
+      "nummer": "084",
+      "name": "Branawarz",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        537
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/084/high.png"
+    },
+    {
+      "id": "30C-085",
+      "editionKuerzel": "30C",
+      "nummer": "085",
+      "name": "Wolwerock",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        745
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/085/high.png"
+    },
+    {
+      "id": "30C-086",
+      "editionKuerzel": "30C",
+      "nummer": "086",
+      "name": "Koraidon",
+      "seltenheitDe": "selten",
+      "dexIds": [
+        1007
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/086/high.png"
+    },
+    {
+      "id": "30C-087",
+      "editionKuerzel": "30C",
+      "nummer": "087",
+      "name": "Nidoran♀",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        29
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/087/high.png"
+    },
+    {
+      "id": "30C-088",
+      "editionKuerzel": "30C",
+      "nummer": "088",
+      "name": "Nidorina",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        30
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/088/high.png"
+    },
+    {
+      "id": "30C-089",
+      "editionKuerzel": "30C",
+      "nummer": "089",
+      "name": "Alola-Mauzi",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        52
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/089/high.png"
+    },
+    {
+      "id": "30C-090",
+      "editionKuerzel": "30C",
+      "nummer": "090",
+      "name": "Gengar-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [
+        94
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/090/high.png"
+    },
+    {
+      "id": "30C-091",
+      "editionKuerzel": "30C",
+      "nummer": "091",
+      "name": "Nachtara",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        197
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/091/high.png"
+    },
+    {
+      "id": "30C-092",
+      "editionKuerzel": "30C",
+      "nummer": "092",
+      "name": "Nachtara-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [
+        197
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/092/high.png"
+    },
+    {
+      "id": "30C-093",
+      "editionKuerzel": "30C",
+      "nummer": "093",
+      "name": "Kramurx",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        198
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/093/high.png"
+    },
+    {
+      "id": "30C-094",
+      "editionKuerzel": "30C",
+      "nummer": "094",
+      "name": "Zurrokex",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        559
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/094/high.png"
+    },
+    {
+      "id": "30C-095",
+      "editionKuerzel": "30C",
+      "nummer": "095",
+      "name": "Zorua",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        570
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/095/high.png"
+    },
+    {
+      "id": "30C-096",
+      "editionKuerzel": "30C",
+      "nummer": "096",
+      "name": "Zoroark",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        571
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/096/high.png"
+    },
+    {
+      "id": "30C-097",
+      "editionKuerzel": "30C",
+      "nummer": "097",
+      "name": "Kapuno",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        633
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/097/high.png"
+    },
+    {
+      "id": "30C-098",
+      "editionKuerzel": "30C",
+      "nummer": "098",
+      "name": "Duodino",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        634
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/098/high.png"
+    },
+    {
+      "id": "30C-099",
+      "editionKuerzel": "30C",
+      "nummer": "099",
+      "name": "Trikephalo",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        635
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/099/high.png"
+    },
+    {
+      "id": "30C-100",
+      "editionKuerzel": "30C",
+      "nummer": "100",
+      "name": "Yveltal",
+      "seltenheitDe": "selten",
+      "dexIds": [
+        717
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/100/high.png"
+    },
+    {
+      "id": "30C-101",
+      "editionKuerzel": "30C",
+      "nummer": "101",
+      "name": "Galar-Mauzi",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        52
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/101/high.png"
+    },
+    {
+      "id": "30C-102",
+      "editionKuerzel": "30C",
+      "nummer": "102",
+      "name": "Jirachi-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [
+        385
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/102/high.png"
+    },
+    {
+      "id": "30C-103",
+      "editionKuerzel": "30C",
+      "nummer": "103",
+      "name": "Dialga",
+      "seltenheitDe": "selten",
+      "dexIds": [
+        483
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/103/high.png"
+    },
+    {
+      "id": "30C-104",
+      "editionKuerzel": "30C",
+      "nummer": "104",
+      "name": "Tentantel",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        598
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/104/high.png"
+    },
+    {
+      "id": "30C-105",
+      "editionKuerzel": "30C",
+      "nummer": "105",
+      "name": "Solgaleo",
+      "seltenheitDe": "selten",
+      "dexIds": [
+        791
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/105/high.png"
+    },
+    {
+      "id": "30C-106",
+      "editionKuerzel": "30C",
+      "nummer": "106",
+      "name": "Zacian",
+      "seltenheitDe": "selten",
+      "dexIds": [
+        888
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/106/high.png"
+    },
+    {
+      "id": "30C-107",
+      "editionKuerzel": "30C",
+      "nummer": "107",
+      "name": "Zamazenta",
+      "seltenheitDe": "selten",
+      "dexIds": [
+        889
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/107/high.png"
+    },
+    {
+      "id": "30C-108",
+      "editionKuerzel": "30C",
+      "nummer": "108",
+      "name": "Monetigo",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        1000
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/108/high.png"
+    },
+    {
+      "id": "30C-109",
+      "editionKuerzel": "30C",
+      "nummer": "109",
+      "name": "Brutalanda-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [
+        373
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/109/high.png"
+    },
+    {
+      "id": "30C-110",
+      "editionKuerzel": "30C",
+      "nummer": "110",
+      "name": "Miniras",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        782
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/110/high.png"
+    },
+    {
+      "id": "30C-111",
+      "editionKuerzel": "30C",
+      "nummer": "111",
+      "name": "Mediras",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        783
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/111/high.png"
+    },
+    {
+      "id": "30C-112",
+      "editionKuerzel": "30C",
+      "nummer": "112",
+      "name": "Grandiras",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        784
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/112/high.png"
+    },
+    {
+      "id": "30C-113",
+      "editionKuerzel": "30C",
+      "nummer": "113",
+      "name": "Mauzi",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        52
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/113/high.png"
+    },
+    {
+      "id": "30C-114",
+      "editionKuerzel": "30C",
+      "nummer": "114",
+      "name": "Kangama",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        115
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/114/high.png"
+    },
+    {
+      "id": "30C-115",
+      "editionKuerzel": "30C",
+      "nummer": "115",
+      "name": "Ditto",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        132
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/115/high.png"
+    },
+    {
+      "id": "30C-116",
+      "editionKuerzel": "30C",
+      "nummer": "116",
+      "name": "Evoli",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        133
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/116/high.png"
+    },
+    {
+      "id": "30C-117",
+      "editionKuerzel": "30C",
+      "nummer": "117",
+      "name": "Evoli",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        133
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/117/high.png"
+    },
+    {
+      "id": "30C-118",
+      "editionKuerzel": "30C",
+      "nummer": "118",
+      "name": "Evoli",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        133
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/118/high.png"
+    },
+    {
+      "id": "30C-119",
+      "editionKuerzel": "30C",
+      "nummer": "119",
+      "name": "Relaxo",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        143
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/119/high.png"
+    },
+    {
+      "id": "30C-120",
+      "editionKuerzel": "30C",
+      "nummer": "120",
+      "name": "Fluffeluff",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        174
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/120/high.png"
+    },
+    {
+      "id": "30C-121",
+      "editionKuerzel": "30C",
+      "nummer": "121",
+      "name": "Lugia",
+      "seltenheitDe": "selten",
+      "dexIds": [
+        249
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/121/high.png"
+    },
+    {
+      "id": "30C-122",
+      "editionKuerzel": "30C",
+      "nummer": "122",
+      "name": "Hisui-Zorua",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        570
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/122/high.png"
+    },
+    {
+      "id": "30C-123",
+      "editionKuerzel": "30C",
+      "nummer": "123",
+      "name": "Hisui-Zoroark",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        571
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/123/high.png"
+    },
+    {
+      "id": "30C-124",
+      "editionKuerzel": "30C",
+      "nummer": "124",
+      "name": "Meteno",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        774
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/124/high.png"
+    },
+    {
+      "id": "30C-125",
+      "editionKuerzel": "30C",
+      "nummer": "125",
+      "name": "Famieps",
+      "seltenheitDe": "häufig",
+      "dexIds": [
+        925
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/125/high.png"
+    },
+    {
+      "id": "30C-126",
+      "editionKuerzel": "30C",
+      "nummer": "126",
+      "name": "Poképad",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/30th/126/high.png"
+    },
+    {
+      "id": "30C-127",
+      "editionKuerzel": "30C",
+      "nummer": "127",
+      "name": "Tausch",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/30th/127/high.png"
+    },
+    {
+      "id": "30C-128",
+      "editionKuerzel": "30C",
+      "nummer": "128",
+      "name": "Hyperball",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/30th/128/high.png"
+    },
+    {
+      "id": "30C-129",
+      "editionKuerzel": "30C",
+      "nummer": "129",
+      "name": "Alola-Kokowei",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [
+        103
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/129/high.png"
+    },
+    {
+      "id": "30C-130",
+      "editionKuerzel": "30C",
+      "nummer": "130",
+      "name": "Lavados",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [
+        146
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/130/high.png"
+    },
+    {
+      "id": "30C-131",
+      "editionKuerzel": "30C",
+      "nummer": "131",
+      "name": "Lapras",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [
+        131
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/131/high.png"
+    },
+    {
+      "id": "30C-132",
+      "editionKuerzel": "30C",
+      "nummer": "132",
+      "name": "Arktos",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [
+        144
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/132/high.png"
+    },
+    {
+      "id": "30C-133",
+      "editionKuerzel": "30C",
+      "nummer": "133",
+      "name": "Zapdos",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [
+        145
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/133/high.png"
+    },
+    {
+      "id": "30C-134",
+      "editionKuerzel": "30C",
+      "nummer": "134",
+      "name": "Riffex",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [
+        849
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/134/high.png"
+    },
+    {
+      "id": "30C-135",
+      "editionKuerzel": "30C",
+      "nummer": "135",
+      "name": "Morpeko",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [
+        877
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/135/high.png"
+    },
+    {
+      "id": "30C-136",
+      "editionKuerzel": "30C",
+      "nummer": "136",
+      "name": "Driftlon",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [
+        425
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/136/high.png"
+    },
+    {
+      "id": "30C-137",
+      "editionKuerzel": "30C",
+      "nummer": "137",
+      "name": "Skelabra",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [
+        609
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/137/high.png"
+    },
+    {
+      "id": "30C-138",
+      "editionKuerzel": "30C",
+      "nummer": "138",
+      "name": "Wolwerock",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [
+        745
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/138/high.png"
+    },
+    {
+      "id": "30C-139",
+      "editionKuerzel": "30C",
+      "nummer": "139",
+      "name": "Alola-Mauzi",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [
+        52
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/139/high.png"
+    },
+    {
+      "id": "30C-140",
+      "editionKuerzel": "30C",
+      "nummer": "140",
+      "name": "Zurrokex",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [
+        559
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/140/high.png"
+    },
+    {
+      "id": "30C-141",
+      "editionKuerzel": "30C",
+      "nummer": "141",
+      "name": "Galar-Mauzi",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [
+        52
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/141/high.png"
+    },
+    {
+      "id": "30C-142",
+      "editionKuerzel": "30C",
+      "nummer": "142",
+      "name": "Monetigo",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [
+        1000
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/142/high.png"
+    },
+    {
+      "id": "30C-143",
+      "editionKuerzel": "30C",
+      "nummer": "143",
+      "name": "Grandiras",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [
+        784
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/143/high.png"
+    },
+    {
+      "id": "30C-144",
+      "editionKuerzel": "30C",
+      "nummer": "144",
+      "name": "Mauzi",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [
+        52
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/144/high.png"
+    },
+    {
+      "id": "30C-145",
+      "editionKuerzel": "30C",
+      "nummer": "145",
+      "name": "Hisui-Zorua",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [
+        570
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/145/high.png"
+    },
+    {
+      "id": "30C-146",
+      "editionKuerzel": "30C",
+      "nummer": "146",
+      "name": "Famieps",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [
+        925
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/146/high.png"
+    },
+    {
+      "id": "30C-147",
+      "editionKuerzel": "30C",
+      "nummer": "147",
+      "name": "Krokel-ex",
+      "seltenheitDe": "selten, besondere Illustration",
+      "dexIds": [
+        909
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/147/high.png"
+    },
+    {
+      "id": "30C-148",
+      "editionKuerzel": "30C",
+      "nummer": "148",
+      "name": "Quajutsu-ex",
+      "seltenheitDe": "selten, besondere Illustration",
+      "dexIds": [
+        658
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/148/high.png"
+    },
+    {
+      "id": "30C-149",
+      "editionKuerzel": "30C",
+      "nummer": "149",
+      "name": "Pikachu-ex",
+      "seltenheitDe": "selten, besondere Illustration",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/149/high.png"
+    },
+    {
+      "id": "30C-150",
+      "editionKuerzel": "30C",
+      "nummer": "150",
+      "name": "Pikachu-ex",
+      "seltenheitDe": "selten, besondere Illustration",
+      "dexIds": [
+        25
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/150/high.png"
+    },
+    {
+      "id": "30C-151",
+      "editionKuerzel": "30C",
+      "nummer": "151",
+      "name": "Mewtu-ex",
+      "seltenheitDe": "selten, besondere Illustration",
+      "dexIds": [
+        150
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/151/high.png"
+    },
+    {
+      "id": "30C-152",
+      "editionKuerzel": "30C",
+      "nummer": "152",
+      "name": "Mew-ex",
+      "seltenheitDe": "selten, besondere Illustration",
+      "dexIds": [
+        151
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/152/high.png"
+    },
+    {
+      "id": "30C-153",
+      "editionKuerzel": "30C",
+      "nummer": "153",
+      "name": "Feelinara-ex",
+      "seltenheitDe": "selten, besondere Illustration",
+      "dexIds": [
+        700
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/153/high.png"
+    },
+    {
+      "id": "30C-154",
+      "editionKuerzel": "30C",
+      "nummer": "154",
+      "name": "Gengar-ex",
+      "seltenheitDe": "selten, besondere Illustration",
+      "dexIds": [
+        94
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/154/high.png"
+    },
+    {
+      "id": "30C-155",
+      "editionKuerzel": "30C",
+      "nummer": "155",
+      "name": "Jirachi-ex",
+      "seltenheitDe": "selten, besondere Illustration",
+      "dexIds": [
+        385
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/155/high.png"
+    },
+    {
+      "id": "30C-156",
+      "editionKuerzel": "30C",
+      "nummer": "156",
+      "name": "Brutalanda-ex",
+      "seltenheitDe": "selten, besondere Illustration",
+      "dexIds": [
+        373
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/156/high.png"
+    },
+    {
+      "id": "30C-157",
+      "editionKuerzel": "30C",
+      "nummer": "157",
+      "name": "Mewtu-ex",
+      "seltenheitDe": "selten, futuristisch",
+      "dexIds": [
+        150
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/157/high.png"
+    },
+    {
+      "id": "30C-158",
+      "editionKuerzel": "30C",
+      "nummer": "158",
+      "name": "Mew-ex",
+      "seltenheitDe": "selten, futuristisch",
+      "dexIds": [
+        151
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/158/high.png"
+    },
+    {
+      "id": "30C-B",
+      "editionKuerzel": "30C",
+      "nummer": "B",
+      "name": "Mew",
+      "seltenheitDe": "selten, RGB",
+      "dexIds": [
+        151
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/B/high.png"
+    },
+    {
+      "id": "30C-G",
+      "editionKuerzel": "30C",
+      "nummer": "G",
+      "name": "Mew",
+      "seltenheitDe": "selten, RGB",
+      "dexIds": [
+        151
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/G/high.png"
+    },
+    {
+      "id": "30C-R",
+      "editionKuerzel": "30C",
+      "nummer": "R",
+      "name": "Mew",
+      "seltenheitDe": "selten, RGB",
+      "dexIds": [
+        151
+      ],
+      "bild": "https://assets.tcgdex.net/de/me/30th/R/high.png"
+    },
     {
       "id": "ASC-001",
       "editionKuerzel": "ASC",
@@ -21266,6 +23031,1275 @@
       "seltenheitDe": "besonders selten",
       "dexIds": [],
       "bild": "https://assets.tcgdex.net/de/swsh/swsh3/201/high.png"
+    },
+    {
+      "id": "DLR-001",
+      "editionKuerzel": "DLR",
+      "nummer": "001",
+      "name": "Skaraborn",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/001/high.png"
+    },
+    {
+      "id": "DLR-002",
+      "editionKuerzel": "DLR",
+      "nummer": "002",
+      "name": "Gehweiher",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/002/high.png"
+    },
+    {
+      "id": "DLR-003",
+      "editionKuerzel": "DLR",
+      "nummer": "003",
+      "name": "Maskeregen",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/003/high.png"
+    },
+    {
+      "id": "DLR-004",
+      "editionKuerzel": "DLR",
+      "nummer": "004",
+      "name": "Tuska",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/004/high.png"
+    },
+    {
+      "id": "DLR-005",
+      "editionKuerzel": "DLR",
+      "nummer": "005",
+      "name": "Noktuska",
+      "seltenheitDe": "selten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/005/high.png"
+    },
+    {
+      "id": "DLR-006",
+      "editionKuerzel": "DLR",
+      "nummer": "006",
+      "name": "Wadribie",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/006/high.png"
+    },
+    {
+      "id": "DLR-007",
+      "editionKuerzel": "DLR",
+      "nummer": "007",
+      "name": "Honweisel",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/007/high.png"
+    },
+    {
+      "id": "DLR-008",
+      "editionKuerzel": "DLR",
+      "nummer": "008",
+      "name": "Shaymin",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/008/high.png"
+    },
+    {
+      "id": "DLR-009",
+      "editionKuerzel": "DLR",
+      "nummer": "009",
+      "name": "Viridium",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/009/high.png"
+    },
+    {
+      "id": "DLR-010",
+      "editionKuerzel": "DLR",
+      "nummer": "010",
+      "name": "Reißlaus",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/010/high.png"
+    },
+    {
+      "id": "DLR-011",
+      "editionKuerzel": "DLR",
+      "nummer": "011",
+      "name": "Mega-Tectass-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/011/high.png"
+    },
+    {
+      "id": "DLR-012",
+      "editionKuerzel": "DLR",
+      "nummer": "012",
+      "name": "Felori",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/012/high.png"
+    },
+    {
+      "id": "DLR-013",
+      "editionKuerzel": "DLR",
+      "nummer": "013",
+      "name": "Feliospa",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/013/high.png"
+    },
+    {
+      "id": "DLR-014",
+      "editionKuerzel": "DLR",
+      "nummer": "014",
+      "name": "Maskagato-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/014/high.png"
+    },
+    {
+      "id": "DLR-015",
+      "editionKuerzel": "DLR",
+      "nummer": "015",
+      "name": "Olini",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/015/high.png"
+    },
+    {
+      "id": "DLR-016",
+      "editionKuerzel": "DLR",
+      "nummer": "016",
+      "name": "Olivinio",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/016/high.png"
+    },
+    {
+      "id": "DLR-017",
+      "editionKuerzel": "DLR",
+      "nummer": "017",
+      "name": "Olithena",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/017/high.png"
+    },
+    {
+      "id": "DLR-018",
+      "editionKuerzel": "DLR",
+      "nummer": "018",
+      "name": "Fukano",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/018/high.png"
+    },
+    {
+      "id": "DLR-019",
+      "editionKuerzel": "DLR",
+      "nummer": "019",
+      "name": "Arkani",
+      "seltenheitDe": "selten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/019/high.png"
+    },
+    {
+      "id": "DLR-020",
+      "editionKuerzel": "DLR",
+      "nummer": "020",
+      "name": "Magmar",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/020/high.png"
+    },
+    {
+      "id": "DLR-021",
+      "editionKuerzel": "DLR",
+      "nummer": "021",
+      "name": "Magbrant",
+      "seltenheitDe": "selten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/021/high.png"
+    },
+    {
+      "id": "DLR-022",
+      "editionKuerzel": "DLR",
+      "nummer": "022",
+      "name": "Qurtel",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/022/high.png"
+    },
+    {
+      "id": "DLR-023",
+      "editionKuerzel": "DLR",
+      "nummer": "023",
+      "name": "Hitze-Rotom-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/023/high.png"
+    },
+    {
+      "id": "DLR-024",
+      "editionKuerzel": "DLR",
+      "nummer": "024",
+      "name": "Furnifraß",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/024/high.png"
+    },
+    {
+      "id": "DLR-025",
+      "editionKuerzel": "DLR",
+      "nummer": "025",
+      "name": "Mantax",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/025/high.png"
+    },
+    {
+      "id": "DLR-026",
+      "editionKuerzel": "DLR",
+      "nummer": "026",
+      "name": "Kyogre",
+      "seltenheitDe": "selten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/026/high.png"
+    },
+    {
+      "id": "DLR-027",
+      "editionKuerzel": "DLR",
+      "nummer": "027",
+      "name": "Quabbel",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/027/high.png"
+    },
+    {
+      "id": "DLR-028",
+      "editionKuerzel": "DLR",
+      "nummer": "028",
+      "name": "Apoquallyp",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/028/high.png"
+    },
+    {
+      "id": "DLR-029",
+      "editionKuerzel": "DLR",
+      "nummer": "029",
+      "name": "Lusardin-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/029/high.png"
+    },
+    {
+      "id": "DLR-030",
+      "editionKuerzel": "DLR",
+      "nummer": "030",
+      "name": "Elektek",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/030/high.png"
+    },
+    {
+      "id": "DLR-031",
+      "editionKuerzel": "DLR",
+      "nummer": "031",
+      "name": "Elevoltek",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/031/high.png"
+    },
+    {
+      "id": "DLR-032",
+      "editionKuerzel": "DLR",
+      "nummer": "032",
+      "name": "Blitza",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/032/high.png"
+    },
+    {
+      "id": "DLR-033",
+      "editionKuerzel": "DLR",
+      "nummer": "033",
+      "name": "Raikou-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/033/high.png"
+    },
+    {
+      "id": "DLR-034",
+      "editionKuerzel": "DLR",
+      "nummer": "034",
+      "name": "Rotom",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/034/high.png"
+    },
+    {
+      "id": "DLR-035",
+      "editionKuerzel": "DLR",
+      "nummer": "035",
+      "name": "Voltolos",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/035/high.png"
+    },
+    {
+      "id": "DLR-036",
+      "editionKuerzel": "DLR",
+      "nummer": "036",
+      "name": "Britzigel",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/036/high.png"
+    },
+    {
+      "id": "DLR-037",
+      "editionKuerzel": "DLR",
+      "nummer": "037",
+      "name": "Pamo",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/037/high.png"
+    },
+    {
+      "id": "DLR-038",
+      "editionKuerzel": "DLR",
+      "nummer": "038",
+      "name": "Pamamo",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/038/high.png"
+    },
+    {
+      "id": "DLR-039",
+      "editionKuerzel": "DLR",
+      "nummer": "039",
+      "name": "Pamomamo",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/039/high.png"
+    },
+    {
+      "id": "DLR-040",
+      "editionKuerzel": "DLR",
+      "nummer": "040",
+      "name": "Voltrel",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/040/high.png"
+    },
+    {
+      "id": "DLR-041",
+      "editionKuerzel": "DLR",
+      "nummer": "041",
+      "name": "Voltrean",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/041/high.png"
+    },
+    {
+      "id": "DLR-042",
+      "editionKuerzel": "DLR",
+      "nummer": "042",
+      "name": "Miraidon",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/042/high.png"
+    },
+    {
+      "id": "DLR-043",
+      "editionKuerzel": "DLR",
+      "nummer": "043",
+      "name": "Traumato",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/043/high.png"
+    },
+    {
+      "id": "DLR-044",
+      "editionKuerzel": "DLR",
+      "nummer": "044",
+      "name": "Hypno",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/044/high.png"
+    },
+    {
+      "id": "DLR-045",
+      "editionKuerzel": "DLR",
+      "nummer": "045",
+      "name": "Giratina",
+      "seltenheitDe": "selten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/045/high.png"
+    },
+    {
+      "id": "DLR-046",
+      "editionKuerzel": "DLR",
+      "nummer": "046",
+      "name": "Golbit",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/046/high.png"
+    },
+    {
+      "id": "DLR-047",
+      "editionKuerzel": "DLR",
+      "nummer": "047",
+      "name": "Mega-Golgantes-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/047/high.png"
+    },
+    {
+      "id": "DLR-048",
+      "editionKuerzel": "DLR",
+      "nummer": "048",
+      "name": "Cupidos",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/048/high.png"
+    },
+    {
+      "id": "DLR-049",
+      "editionKuerzel": "DLR",
+      "nummer": "049",
+      "name": "Sandan",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/049/high.png"
+    },
+    {
+      "id": "DLR-050",
+      "editionKuerzel": "DLR",
+      "nummer": "050",
+      "name": "Sandamer",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/050/high.png"
+    },
+    {
+      "id": "DLR-051",
+      "editionKuerzel": "DLR",
+      "nummer": "051",
+      "name": "Onix",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/051/high.png"
+    },
+    {
+      "id": "DLR-052",
+      "editionKuerzel": "DLR",
+      "nummer": "052",
+      "name": "Stahlos",
+      "seltenheitDe": "selten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/052/high.png"
+    },
+    {
+      "id": "DLR-053",
+      "editionKuerzel": "DLR",
+      "nummer": "053",
+      "name": "Groudon",
+      "seltenheitDe": "selten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/053/high.png"
+    },
+    {
+      "id": "DLR-054",
+      "editionKuerzel": "DLR",
+      "nummer": "054",
+      "name": "Demeteros",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/054/high.png"
+    },
+    {
+      "id": "DLR-055",
+      "editionKuerzel": "DLR",
+      "nummer": "055",
+      "name": "Nidoran♀",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/055/high.png"
+    },
+    {
+      "id": "DLR-056",
+      "editionKuerzel": "DLR",
+      "nummer": "056",
+      "name": "Nidorina",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/056/high.png"
+    },
+    {
+      "id": "DLR-057",
+      "editionKuerzel": "DLR",
+      "nummer": "057",
+      "name": "Nidoqueen",
+      "seltenheitDe": "selten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/057/high.png"
+    },
+    {
+      "id": "DLR-058",
+      "editionKuerzel": "DLR",
+      "nummer": "058",
+      "name": "Webarak",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/058/high.png"
+    },
+    {
+      "id": "DLR-059",
+      "editionKuerzel": "DLR",
+      "nummer": "059",
+      "name": "Ariados",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/059/high.png"
+    },
+    {
+      "id": "DLR-060",
+      "editionKuerzel": "DLR",
+      "nummer": "060",
+      "name": "Zobiris",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/060/high.png"
+    },
+    {
+      "id": "DLR-061",
+      "editionKuerzel": "DLR",
+      "nummer": "061",
+      "name": "Kanivanha",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/061/high.png"
+    },
+    {
+      "id": "DLR-062",
+      "editionKuerzel": "DLR",
+      "nummer": "062",
+      "name": "Tohaido",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/062/high.png"
+    },
+    {
+      "id": "DLR-063",
+      "editionKuerzel": "DLR",
+      "nummer": "063",
+      "name": "Darkrai",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/063/high.png"
+    },
+    {
+      "id": "DLR-064",
+      "editionKuerzel": "DLR",
+      "nummer": "064",
+      "name": "Felilou",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/064/high.png"
+    },
+    {
+      "id": "DLR-065",
+      "editionKuerzel": "DLR",
+      "nummer": "065",
+      "name": "Kleoparda",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/065/high.png"
+    },
+    {
+      "id": "DLR-066",
+      "editionKuerzel": "DLR",
+      "nummer": "066",
+      "name": "Zorua",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/066/high.png"
+    },
+    {
+      "id": "DLR-067",
+      "editionKuerzel": "DLR",
+      "nummer": "067",
+      "name": "Zoroark-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/067/high.png"
+    },
+    {
+      "id": "DLR-068",
+      "editionKuerzel": "DLR",
+      "nummer": "068",
+      "name": "Iscalar",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/068/high.png"
+    },
+    {
+      "id": "DLR-069",
+      "editionKuerzel": "DLR",
+      "nummer": "069",
+      "name": "Mega-Calamanero-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/069/high.png"
+    },
+    {
+      "id": "DLR-070",
+      "editionKuerzel": "DLR",
+      "nummer": "070",
+      "name": "Morpeko",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/070/high.png"
+    },
+    {
+      "id": "DLR-071",
+      "editionKuerzel": "DLR",
+      "nummer": "071",
+      "name": "Zarude",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/071/high.png"
+    },
+    {
+      "id": "DLR-072",
+      "editionKuerzel": "DLR",
+      "nummer": "072",
+      "name": "Shardrago",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/072/high.png"
+    },
+    {
+      "id": "DLR-073",
+      "editionKuerzel": "DLR",
+      "nummer": "073",
+      "name": "Miniras",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/073/high.png"
+    },
+    {
+      "id": "DLR-074",
+      "editionKuerzel": "DLR",
+      "nummer": "074",
+      "name": "Mediras",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/074/high.png"
+    },
+    {
+      "id": "DLR-075",
+      "editionKuerzel": "DLR",
+      "nummer": "075",
+      "name": "Grandiras",
+      "seltenheitDe": "selten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/075/high.png"
+    },
+    {
+      "id": "DLR-076",
+      "editionKuerzel": "DLR",
+      "nummer": "076",
+      "name": "Mopex",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/076/high.png"
+    },
+    {
+      "id": "DLR-077",
+      "editionKuerzel": "DLR",
+      "nummer": "077",
+      "name": "Tauros",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/077/high.png"
+    },
+    {
+      "id": "DLR-078",
+      "editionKuerzel": "DLR",
+      "nummer": "078",
+      "name": "Evoli",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/078/high.png"
+    },
+    {
+      "id": "DLR-079",
+      "editionKuerzel": "DLR",
+      "nummer": "079",
+      "name": "Botogel",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/079/high.png"
+    },
+    {
+      "id": "DLR-080",
+      "editionKuerzel": "DLR",
+      "nummer": "080",
+      "name": "Azurill",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/080/high.png"
+    },
+    {
+      "id": "DLR-081",
+      "editionKuerzel": "DLR",
+      "nummer": "081",
+      "name": "Wablu",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/081/high.png"
+    },
+    {
+      "id": "DLR-082",
+      "editionKuerzel": "DLR",
+      "nummer": "082",
+      "name": "Altaria",
+      "seltenheitDe": "selten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/082/high.png"
+    },
+    {
+      "id": "DLR-083",
+      "editionKuerzel": "DLR",
+      "nummer": "083",
+      "name": "Kecleon",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/083/high.png"
+    },
+    {
+      "id": "DLR-084",
+      "editionKuerzel": "DLR",
+      "nummer": "084",
+      "name": "Mega-Rayquaza-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/084/high.png"
+    },
+    {
+      "id": "DLR-085",
+      "editionKuerzel": "DLR",
+      "nummer": "085",
+      "name": "Boreos",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/085/high.png"
+    },
+    {
+      "id": "DLR-086",
+      "editionKuerzel": "DLR",
+      "nummer": "086",
+      "name": "Dartiri",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/086/high.png"
+    },
+    {
+      "id": "DLR-087",
+      "editionKuerzel": "DLR",
+      "nummer": "087",
+      "name": "Dartignis",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/087/high.png"
+    },
+    {
+      "id": "DLR-088",
+      "editionKuerzel": "DLR",
+      "nummer": "088",
+      "name": "Fiaro-ex",
+      "seltenheitDe": "doppelselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/088/high.png"
+    },
+    {
+      "id": "DLR-089",
+      "editionKuerzel": "DLR",
+      "nummer": "089",
+      "name": "Johnson",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/089/high.png"
+    },
+    {
+      "id": "DLR-090",
+      "editionKuerzel": "DLR",
+      "nummer": "090",
+      "name": "Abenteuerlaterne",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/090/high.png"
+    },
+    {
+      "id": "DLR-091",
+      "editionKuerzel": "DLR",
+      "nummer": "091",
+      "name": "Funktionsweste",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/091/high.png"
+    },
+    {
+      "id": "DLR-092",
+      "editionKuerzel": "DLR",
+      "nummer": "092",
+      "name": "MCs Hype",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/092/high.png"
+    },
+    {
+      "id": "DLR-093",
+      "editionKuerzel": "DLR",
+      "nummer": "093",
+      "name": "Gris",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/093/high.png"
+    },
+    {
+      "id": "DLR-094",
+      "editionKuerzel": "DLR",
+      "nummer": "094",
+      "name": "Legendäre Lavaröhre",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/094/high.png"
+    },
+    {
+      "id": "DLR-095",
+      "editionKuerzel": "DLR",
+      "nummer": "095",
+      "name": "Legendäre Lavaröhre",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/095/high.png"
+    },
+    {
+      "id": "DLR-096",
+      "editionKuerzel": "DLR",
+      "nummer": "096",
+      "name": "Legendärer Gipfel",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/096/high.png"
+    },
+    {
+      "id": "DLR-097",
+      "editionKuerzel": "DLR",
+      "nummer": "097",
+      "name": "Legendärer Gipfel",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/097/high.png"
+    },
+    {
+      "id": "DLR-098",
+      "editionKuerzel": "DLR",
+      "nummer": "098",
+      "name": "Legendärer Graben",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/098/high.png"
+    },
+    {
+      "id": "DLR-099",
+      "editionKuerzel": "DLR",
+      "nummer": "099",
+      "name": "Legendärer Graben",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/099/high.png"
+    },
+    {
+      "id": "DLR-100",
+      "editionKuerzel": "DLR",
+      "nummer": "100",
+      "name": "Mega-Rayquaza-Kappe",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/100/high.png"
+    },
+    {
+      "id": "DLR-101",
+      "editionKuerzel": "DLR",
+      "nummer": "101",
+      "name": "Leckerer Reisball",
+      "seltenheitDe": "häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/101/high.png"
+    },
+    {
+      "id": "DLR-102",
+      "editionKuerzel": "DLR",
+      "nummer": "102",
+      "name": "Ben & Svenjas Training",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/102/high.png"
+    },
+    {
+      "id": "DLR-103",
+      "editionKuerzel": "DLR",
+      "nummer": "103",
+      "name": "Amalias Vertrauen",
+      "seltenheitDe": "nicht so häufig",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/103/high.png"
+    },
+    {
+      "id": "DLR-104",
+      "editionKuerzel": "DLR",
+      "nummer": "104",
+      "name": "Maskeregen",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/104/high.png"
+    },
+    {
+      "id": "DLR-105",
+      "editionKuerzel": "DLR",
+      "nummer": "105",
+      "name": "Felori",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/105/high.png"
+    },
+    {
+      "id": "DLR-106",
+      "editionKuerzel": "DLR",
+      "nummer": "106",
+      "name": "Fukano",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/106/high.png"
+    },
+    {
+      "id": "DLR-107",
+      "editionKuerzel": "DLR",
+      "nummer": "107",
+      "name": "Magbrant",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/107/high.png"
+    },
+    {
+      "id": "DLR-108",
+      "editionKuerzel": "DLR",
+      "nummer": "108",
+      "name": "Elevoltek",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/108/high.png"
+    },
+    {
+      "id": "DLR-109",
+      "editionKuerzel": "DLR",
+      "nummer": "109",
+      "name": "Britzigel",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/109/high.png"
+    },
+    {
+      "id": "DLR-110",
+      "editionKuerzel": "DLR",
+      "nummer": "110",
+      "name": "Cupidos",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/110/high.png"
+    },
+    {
+      "id": "DLR-111",
+      "editionKuerzel": "DLR",
+      "nummer": "111",
+      "name": "Groudon",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/111/high.png"
+    },
+    {
+      "id": "DLR-112",
+      "editionKuerzel": "DLR",
+      "nummer": "112",
+      "name": "Zorua",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/112/high.png"
+    },
+    {
+      "id": "DLR-113",
+      "editionKuerzel": "DLR",
+      "nummer": "113",
+      "name": "Iscalar",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/113/high.png"
+    },
+    {
+      "id": "DLR-114",
+      "editionKuerzel": "DLR",
+      "nummer": "114",
+      "name": "Evoli",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/114/high.png"
+    },
+    {
+      "id": "DLR-115",
+      "editionKuerzel": "DLR",
+      "nummer": "115",
+      "name": "Azurill",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/115/high.png"
+    },
+    {
+      "id": "DLR-116",
+      "editionKuerzel": "DLR",
+      "nummer": "116",
+      "name": "Altaria",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/116/high.png"
+    },
+    {
+      "id": "DLR-117",
+      "editionKuerzel": "DLR",
+      "nummer": "117",
+      "name": "Kecleon",
+      "seltenheitDe": "selten, Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/117/high.png"
+    },
+    {
+      "id": "DLR-118",
+      "editionKuerzel": "DLR",
+      "nummer": "118",
+      "name": "Mega-Tectass-ex",
+      "seltenheitDe": "ultraselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/118/high.png"
+    },
+    {
+      "id": "DLR-119",
+      "editionKuerzel": "DLR",
+      "nummer": "119",
+      "name": "Hitze-Rotom-ex",
+      "seltenheitDe": "ultraselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/119/high.png"
+    },
+    {
+      "id": "DLR-120",
+      "editionKuerzel": "DLR",
+      "nummer": "120",
+      "name": "Lusardin-ex",
+      "seltenheitDe": "ultraselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/120/high.png"
+    },
+    {
+      "id": "DLR-121",
+      "editionKuerzel": "DLR",
+      "nummer": "121",
+      "name": "Raikou-ex",
+      "seltenheitDe": "ultraselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/121/high.png"
+    },
+    {
+      "id": "DLR-122",
+      "editionKuerzel": "DLR",
+      "nummer": "122",
+      "name": "Mega-Golgantes-ex",
+      "seltenheitDe": "ultraselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/122/high.png"
+    },
+    {
+      "id": "DLR-123",
+      "editionKuerzel": "DLR",
+      "nummer": "123",
+      "name": "Mega-Calamanero-ex",
+      "seltenheitDe": "ultraselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/123/high.png"
+    },
+    {
+      "id": "DLR-124",
+      "editionKuerzel": "DLR",
+      "nummer": "124",
+      "name": "Fiaro-ex",
+      "seltenheitDe": "ultraselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/124/high.png"
+    },
+    {
+      "id": "DLR-125",
+      "editionKuerzel": "DLR",
+      "nummer": "125",
+      "name": "Johnson",
+      "seltenheitDe": "ultraselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/125/high.png"
+    },
+    {
+      "id": "DLR-126",
+      "editionKuerzel": "DLR",
+      "nummer": "126",
+      "name": "Abenteuerlaterne",
+      "seltenheitDe": "ultraselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/126/high.png"
+    },
+    {
+      "id": "DLR-127",
+      "editionKuerzel": "DLR",
+      "nummer": "127",
+      "name": "Funktionsweste",
+      "seltenheitDe": "ultraselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/127/high.png"
+    },
+    {
+      "id": "DLR-128",
+      "editionKuerzel": "DLR",
+      "nummer": "128",
+      "name": "MCs Hype",
+      "seltenheitDe": "ultraselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/128/high.png"
+    },
+    {
+      "id": "DLR-129",
+      "editionKuerzel": "DLR",
+      "nummer": "129",
+      "name": "Pokémon-Fänger",
+      "seltenheitDe": "ultraselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/129/high.png"
+    },
+    {
+      "id": "DLR-130",
+      "editionKuerzel": "DLR",
+      "nummer": "130",
+      "name": "Ben & Svenjas Training",
+      "seltenheitDe": "ultraselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/130/high.png"
+    },
+    {
+      "id": "DLR-131",
+      "editionKuerzel": "DLR",
+      "nummer": "131",
+      "name": "Amalias Vertrauen",
+      "seltenheitDe": "ultraselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/131/high.png"
+    },
+    {
+      "id": "DLR-132",
+      "editionKuerzel": "DLR",
+      "nummer": "132",
+      "name": "Sprudelnde Water-Energie",
+      "seltenheitDe": "ultraselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/132/high.png"
+    },
+    {
+      "id": "DLR-133",
+      "editionKuerzel": "DLR",
+      "nummer": "133",
+      "name": "Wachsende Grass-Energie",
+      "seltenheitDe": "ultraselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/133/high.png"
+    },
+    {
+      "id": "DLR-134",
+      "editionKuerzel": "DLR",
+      "nummer": "134",
+      "name": "Nitro-Fire-Energie",
+      "seltenheitDe": "ultraselten",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/134/high.png"
+    },
+    {
+      "id": "DLR-135",
+      "editionKuerzel": "DLR",
+      "nummer": "135",
+      "name": "Mega-Tectass-ex",
+      "seltenheitDe": "selten, besondere Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/135/high.png"
+    },
+    {
+      "id": "DLR-136",
+      "editionKuerzel": "DLR",
+      "nummer": "136",
+      "name": "Raikou-ex",
+      "seltenheitDe": "selten, besondere Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/136/high.png"
+    },
+    {
+      "id": "DLR-137",
+      "editionKuerzel": "DLR",
+      "nummer": "137",
+      "name": "Mega-Golgantes-ex",
+      "seltenheitDe": "selten, besondere Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/137/high.png"
+    },
+    {
+      "id": "DLR-138",
+      "editionKuerzel": "DLR",
+      "nummer": "138",
+      "name": "Mega-Rayquaza-ex",
+      "seltenheitDe": "selten, besondere Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/138/high.png"
+    },
+    {
+      "id": "DLR-139",
+      "editionKuerzel": "DLR",
+      "nummer": "139",
+      "name": "Johnson",
+      "seltenheitDe": "selten, besondere Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/139/high.png"
+    },
+    {
+      "id": "DLR-140",
+      "editionKuerzel": "DLR",
+      "nummer": "140",
+      "name": "Amalias Vertrauen",
+      "seltenheitDe": "selten, besondere Illustration",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/140/high.png"
+    },
+    {
+      "id": "DLR-141",
+      "editionKuerzel": "DLR",
+      "nummer": "141",
+      "name": "Mega-Rayquaza-ex",
+      "seltenheitDe": "hyperselten, Mega",
+      "dexIds": [],
+      "bild": "https://assets.tcgdex.net/de/me/me06/141/high.png"
     },
     {
       "id": "DRI-001",
